@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awscognitonextjs-dev-6badb-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533267403488:role/amplify-awscognitonextjs-dev-6badb-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533267403488:role/amplify-awscognitonextjs-dev-6badb-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-awscognitonextjs-dev-6badb-deployment",
+      "UnauthRoleName": "amplify-awscognitonextjs-dev-6badb-unauthRole",
+      "StackName": "amplify-awscognitonextjs-dev-6badb",
+      "StackId": "arn:aws:cloudformation:eu-north-1:533267403488:stack/amplify-awscognitonextjs-dev-6badb/446dda40-729c-11f0-83ba-0a9f59c180b5",
+      "AmplifyAppId": "d1h2dflvfvvoxy"
+    },
+    "categories": {
+      "auth": {
+        "awscognitonextjs87749ed4": {}
+      }
+    }
+  }
+}
